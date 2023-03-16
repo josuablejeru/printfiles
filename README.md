@@ -1,38 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Desktop App for Managing Gcode Files and STL/3MF Files
+This is a desktop application designed to help you manage your Gcode files and STL/3MF files for your 3D printing projects. With this app, you can easily organize and keep track of all your files, as well as incorporate photos and filament information. In the future, we plan to add a filament tracker and other useful features to make the 3D printing process even easier.
 
-## Getting Started
+## Built With
+Tauri - A framework for building desktop applications with web technologies.
+React - A JavaScript library for building user interfaces.
+Material-UI - A popular React UI framework.
 
-First, run the development server:
+## Contributing
+We welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Fork this repository.
+Create a new branch with your feature or bug fix.
+Commit your changes.
+Push your branch to your forked repository.
+Submit a pull request to this repository with a clear description of your changes.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Acknowledgments
+We would like to thank the Tauri, React, and Material-UI communities for creating and maintaining these fantastic tools.
+Special thanks to our contributors for their hard work and dedication to this project.
